@@ -13,7 +13,7 @@
 # 課堂習題
 欄位 | 內容
 -----|--------
-習題 | [習題1](https://github.com/derek120432/sp110b/wiki/習題1)、[習題2]((https://github.com/derek120432/sp110b/wiki/習題2.md)、[習題3]((https://github.com/derek120432/sp110b/wiki/習題3.md)
+習題 | [習題1](https://github.com/derek120432/sp110b/wiki/習題1)、[習題2](https://github.com/derek120432/sp110b/wiki/習題2.md)、[習題3](https://github.com/derek120432/sp110b/wiki/習題3.md)
 ***
 # 筆記
 欄位 | 內容
