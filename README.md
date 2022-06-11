@@ -13,25 +13,25 @@
 # 課堂習題
 欄位 | 內容
 -----|--------
-習題 | [習題1](https://github.com/derek120432/sp110b/wiki/習題1.md)、[習題2](習題2.md)、[習題3](習題3.md)
+習題 | [習題1](https://github.com/derek120432/sp110b/wiki/習題1)、[習題2]((https://github.com/derek120432/sp110b/wiki/習題2.md)、[習題3]((https://github.com/derek120432/sp110b/wiki/習題3.md)
 ***
 # 筆記
 欄位 | 內容
 -----|--------
-week1 | [week1](week1.md)
-week2 | [week2](week2.md)
-week3 | [week3](week3.md)
-week4 | [week4](week4.md)
-week5 | [week5](week5.md)
-week6 | [week6](week6.md)
-week7 | [week7](week7.md)
-week8 | [week8](week8.md)
-week9 | [week9](week9.md)
-week10 | [week10](week10.md)
-week11 | [week11](week11.md)
-week12 | [week12](week12.md)
-week13 | [week13](week13.md)
-week14 | [week14](week14.md)
-week15 | [week15](week15.md)
-week16 | [week16](week16.md)
-week17 | [week17](week17.md)
+week1 | [week1](https://github.com/derek120432/sp110b/wiki/week1.md)
+week2 | [week2](https://github.com/derek120432/sp110b/wiki/week2.md)
+week3 | [week3](https://github.com/derek120432/sp110b/wiki/week3.md)
+week4 | [week4](https://github.com/derek120432/sp110b/wiki/week4.md)
+week5 | [week5](https://github.com/derek120432/sp110b/wiki/week5.md)
+week6 | [week6](https://github.com/derek120432/sp110b/wiki/week6.md)
+week7 | [week7](https://github.com/derek120432/sp110b/wiki/week7.md)
+week8 | [week8](https://github.com/derek120432/sp110b/wiki/week8.md)
+week9 | [week9](https://github.com/derek120432/sp110b/wiki/week9.md)
+week10 | [week10](https://github.com/derek120432/sp110b/wiki/week10.md)
+week11 | [week11](https://github.com/derek120432/sp110b/wiki/week11.md)
+week12 | [week12](https://github.com/derek120432/sp110b/wiki/week12.md)
+week13 | [week13](https://github.com/derek120432/sp110b/wiki/week13.md)
+week14 | [week14](https://github.com/derek120432/sp110b/wiki/week14.md)
+week15 | [week15](https://github.com/derek120432/sp110b/wiki/week15.md)
+week16 | [week16](https://github.com/derek120432/sp110b/wiki/week16.md)
+week17 | [week17](https://github.com/derek120432/sp110b/wiki/week17.md)
